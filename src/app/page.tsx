@@ -30,7 +30,7 @@ export default function Home() {
 
   return (
     <div
-      className="container mx-auto"
+      className="container mx-auto p-6"
       style={{ background: "url(/images/paws.svg)" }}
     >
       <div className="flex justify-center items-center p-4 mb-4 bg-mint-green rounded">
