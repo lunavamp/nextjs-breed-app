@@ -25,14 +25,6 @@ const Header: React.FC = () => {
                 About
               </Link>
             </li>
-            <li>
-              <Link
-                href="/contact"
-                className=" text-m font-semibold"
-              >
-                Contact
-              </Link>
-            </li>
           </ul>
         </nav>
       </div>
